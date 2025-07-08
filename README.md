@@ -19,36 +19,6 @@ Implements A* search algorithm to determine the shortest and fastest path for em
 Dynamically adjusts traffic signals along the path to prioritize emergency vehicle movement based on urgency levels (High, Medium, Low).
 Fine-grained signal control for specific intersections during emergencies with predefined green light durations for each priority level.
 
-## How to Run Code 
-## 1. Compilation
-![image](https://github.com/user-attachments/assets/dfbee02e-ccd2-4369-804a-0f29cabef62d)
-
-## 2.Run
-![image](https://github.com/user-attachments/assets/e88ee4f0-2654-4bcf-a93c-b0eddf3fa1d4)
-
-
-## Sample Outputs
-## Initail Dashboard
-![image](https://github.com/user-attachments/assets/d50edb5a-556e-40ec-8956-77cad2468f80)
-## Road Management
-![image](https://github.com/user-attachments/assets/4b67ae95-3340-4f9b-a197-dc1a69ab2fe2)
-## Vehicles management
-![image](https://github.com/user-attachments/assets/58e6254e-7664-4643-9779-3f9c73d51261)
-## Traffic Signal Management
-![image](https://github.com/user-attachments/assets/db7a4cbb-6f35-4a15-8c5d-457b261769d8)
-## Graph
-![image](https://github.com/user-attachments/assets/da7901bd-7295-427f-8dee-6a300624283a)
-## Vehicles
-![image](https://github.com/user-attachments/assets/edc05a65-b74a-4a07-ad0f-c520daa3586f)
-## Shortest Path
-![image](https://github.com/user-attachments/assets/1771fd66-d39e-49dd-a542-ab65a91cf0c5)
-## Movement 
-![image](https://github.com/user-attachments/assets/d19aa469-6007-44a9-bb52-70e320a5ab19)
-## Traffic signals 
-![image](https://github.com/user-attachments/assets/ab644263-da29-4439-a154-80e530e08c2c)
-## Logs
-![image](https://github.com/user-attachments/assets/fcff018f-958f-44b6-9b6f-3524b18e6c7d)
-
 
 
 
